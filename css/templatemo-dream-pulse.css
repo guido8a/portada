@@ -124,8 +124,8 @@ a {
   z-index: 100;
   padding-left: 70px;
   padding-right: 70px;
-  width: 400px;
-  max-width: 400px;
+  width: 450px;
+  max-width: 450px;
 }
 
 /* Hide scrollbar */
@@ -582,7 +582,7 @@ figure.effect-bubba:hover p {
   .tm-brand-box {
     margin-top: 30px;
     margin-bottom: 30px;
-    max-width: 200px;
+    max-width: 330px;
     min-height: 100px;
   }
 
